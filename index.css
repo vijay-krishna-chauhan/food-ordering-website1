@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+
+
+ /* #child{
+    color: red;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 10px;
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+    
+}
+.nav-list > li{
+    padding: 10px;
+}
+
+.card{
+    width: 200px;
+   
+    background-color: rgb(203, 210, 179);
+    padding: 5px;
+    margin: 5px;
+}
+.card:hover{
+    cursor: pointer;
+    border: 1px solid black;
+}
+.search{
+    padding: 10px;
+}
+
+.food-img{
+    width: 200px;
+    height: 150px;
+}
+
+
+.detail-btn{
+    background-color: #04AA6D;
+    width: 100%;
+    color: white;
+}
+.body{
+    
+    border: 1px solid black;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #ec3939;
+}
+
+.filter-btn{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+ 
+    
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    background-color: #f0f0f0;
+    width: 200px;
+    height: 400px;
+    margin: 20px;
+}
+
+.filter{
+    display: flex;
+}
+
+.userClass{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.userClass-info{
+    margin-left: 30px;
+    
+}
+
+.avatar{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}  */
